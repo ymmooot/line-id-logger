@@ -1,0 +1,14 @@
+{
+  "name": "line-id-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro"
+  },
+  "author": "ryota yamamoto",
+  "dependencies": {
+    "micro": "^9.3.4",
+    "ngrok": "^3.2.7"
+  }
+}
